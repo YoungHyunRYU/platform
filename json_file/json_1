@@ -19,4 +19,10 @@
     "name": "피부",
     "description": "피부!!!!!!"
   }
+ ,
+  {
+    "id": 5,
+    "name": "다리",
+    "description": "다리!!!!!!"
+  }
  ]
