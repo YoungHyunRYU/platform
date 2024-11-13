@@ -1,28 +1,28 @@
 [ 
   {
     "id": 1,
-    "name": "심장",
-    "description": "심장에 대한 설명입니다."
+    "name": "heart",
+    "description": "heart 1."
   },
   {
     "id": 2,
-    "name": 뇌",
-    "description": "뇌에 대한 설명."
+    "name": brain",
+    "description": "brain2."
   },
   {
     "id": 3,
-    "name": "근육",
-    "description": "근육이예요ㅛ."
+    "name": "muscle",
+    "description": "muscle3."
   },
   {
     "id": 4,
-    "name": "피부",
-    "description": "피부!!!!!!"
+    "name": "skin4",
+    "description": "skin4!!!!!!"
   }
  ,
   {
     "id": 5,
-    "name": "다리",
-    "description": "다리!!!!!!"
+    "name": "leg",
+    "description": "leg!!!!!!"
   }
  ]
