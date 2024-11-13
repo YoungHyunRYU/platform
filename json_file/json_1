@@ -1,4 +1,4 @@
-[ 
+[
   {
     "id": 1,
     "name": "heart",
@@ -6,7 +6,7 @@
   },
   {
     "id": 2,
-    "name": brain",
+    "name": "brain",
     "description": "brain2."
   },
   {
@@ -24,4 +24,4 @@
     "name": "leg",
     "description": "leg!!!!!!"
   }
- ]
+]
