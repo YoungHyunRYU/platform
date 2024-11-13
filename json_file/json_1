@@ -2,21 +2,21 @@
   {
     "id": 1,
     "name": "심장",
-    "description": "This is the description for Heart."
+    "description": "심장에 대한 설명입니다."
   },
   {
     "id": 2,
     "name": 뇌",
-    "description": "This is the description for Brain."
+    "description": "뇌에 대한 설명."
   },
   {
     "id": 3,
     "name": "근육",
-    "description": "This is the description for Muscle."
+    "description": "근육이예요ㅛ."
   },
   {
     "id": 4,
     "name": "피부",
-    "description": "This is the description for Skin!!!!!!"
+    "description": "피부!!!!!!"
   }
  ]
